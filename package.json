@@ -1,7 +1,7 @@
 {
   "_args": [
     [
-      "ccxt@1.50.74",
+      "git+https://github.com/Credit-First/ccxt.git",
       "/Users/enricoranucci/Desktop/ccxtPro.latest"
     ]
   ],
